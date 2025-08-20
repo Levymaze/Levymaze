@@ -30,10 +30,6 @@
     <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
 
-### Currently working on 
-
-[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LevyMaze&repo=CloudPeak&theme=radical)](https://github.com/LevyMaze/CloudPeak)
-
 ### Connect with Me
 <p align="left">
     <a href="https://github.com/LevyMaze">
