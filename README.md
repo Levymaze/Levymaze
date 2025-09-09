@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/React.js-563D7C?style=for-the-badge&logo=React.js&logoColor=white" alt="React.js"/>
 </p>
 
 ### Tools & Technologies
