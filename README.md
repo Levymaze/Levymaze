@@ -1,5 +1,5 @@
 ### Dm Dc @Levymaze for Beta tester on Woomy offline
-<small>Account owned by Mudasir</small>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=LevyMaze&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
 </div>
@@ -14,3 +14,6 @@
         <img src="https://img.shields.io/badge/Discord-levyMaze-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
 </p>
+<small style="color: #6a737d;">
+Account Owned by Mudasir
+</small>
