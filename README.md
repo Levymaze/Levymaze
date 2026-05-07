@@ -16,6 +16,5 @@
 </p>
 
 
-> <sub> Account Owned by Mudasir </sub>
->   
+> Account Owned by Mudasir   
 
