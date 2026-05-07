@@ -16,7 +16,7 @@
 </p>
 
 <p style="color: #6a737d;">
-<small>
-🩶 Account Owned by Mudasir
-</small>
+<sub>
+Account Owned by Mudasir
+</sub>
 </p>
