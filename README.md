@@ -14,6 +14,7 @@
         <img src="https://img.shields.io/badge/Discord-levyMaze-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
 </p>
+
 <small style="color: #6a737d;">
 Account Owned by Mudasir
 </small>
