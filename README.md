@@ -16,7 +16,7 @@
 </p>
 
 <p style="color: #6a737d;">
-<sub>
-> Account Owned by Mudasir
+> <sub>
+ Account Owned by Mudasir
 </sub>
 </p>
