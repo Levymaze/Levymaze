@@ -15,6 +15,8 @@
     </a>
 </p>
 
-<small style="color: #6a737d;">
+<p style="color: #6a737d;">
+  <small>
 Account Owned by Mudasir
-</small>
+    </small>
+</p>
