@@ -15,7 +15,7 @@
     </a>
 </p>
 
-> Account owned by Mudasir <small>This text will appear smaller.</small>
+> Account owned by Mudasir 
 
 
 
